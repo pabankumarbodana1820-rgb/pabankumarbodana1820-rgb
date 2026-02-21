@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paban Kumar</h1>
+<h1 align="center">Hi 👋, I'm  B Paban Kumar</h1>
 <h3 align="center">🚀 Data Science | Machine Learning | Analytics Enthusiast</h3>
 
 <p align="center">
