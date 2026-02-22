@@ -40,20 +40,7 @@
 
 ---
 
-# 🧠 GitHub Topics
 
-<p>
-
-<img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PowerBI-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-purple?style=for-the-badge"/>
-
-</p>
-
----
 
 # 📬 Contact With Me
 
