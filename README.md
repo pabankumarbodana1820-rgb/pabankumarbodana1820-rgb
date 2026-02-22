@@ -60,6 +60,24 @@
 
 </p>
 
+
+## 📫 Get in touch With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/b-paban-kumar-772b18319/">
+  <img src="https://img.shields.io/badge/LinkedIn-B%20Paban%20Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pabankumarbodana1820@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-pabankumarbodana1820%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pabankumarbodana1820-rgb">
+  <img src="https://img.shields.io/badge/GitHub-pabankumarbodana1820--rgb-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 
