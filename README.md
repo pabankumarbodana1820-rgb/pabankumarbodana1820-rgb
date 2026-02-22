@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm B Paban Kumar</h1>
 
-<h3 align="center">💻 Data Scientist | 🤖 Machine Learning Engineer | 📊 Power BI Developer</h3>
+<h3 align="center">💻 Data science | 🤖 Machine Learning  | 📊 Power BI Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Python+Developer;Power+BI+Developer;Open+to+Work" />
@@ -10,14 +10,14 @@
 
 # 👨‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png">
+
 
 - 🎓 B.Tech in Computer Science and Engineering  
 - 📊 Passionate about Data Science and Machine Learning  
 - 🤖 Building Machine Learning and Analytics Projects  
-- 📈 Skilled in Python, SQL, Power BI, and Data Analysis  
+- 📈 Skilled in Python, SQL, Power BI, and Data science  
 - 🌱 Currently learning Advanced Machine Learning & Generative AI  
-- 💼 Open for Data Scientist and ML Engineer roles  
+- 💼 Open for Data Analyst and ML Engineer roles  
 - 📫 Email: pabankumarbodana1820@gmail.com  
 
 ---
@@ -28,7 +28,7 @@
 
 <img src="https://skillicons.dev/icons?i=python" height="50"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=jupyter notebook" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 <img src="https://skillicons.dev/icons?i=linux" height="50"/>
@@ -39,37 +39,7 @@
 
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pabankumarbodana1820-rgb&show_icons=true&theme=tokyonight" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabankumarbodana1820-rgb&layout=compact&theme=tokyonight" height="180"/>
-
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pabankumarbodana1820-rgb&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak Stats
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pabankumarbodana1820-rgb&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -108,13 +78,7 @@
 
 ---
 
-# ⚡ Profile Views
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=pabankumarbodana1820-rgb&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
 
 # 💡 Quote
 
