@@ -65,9 +65,3 @@
 
 
 ---
-
-
-
-# 💡 Quote
-
-"Turning Data into Insights and Insights into Impact 🚀"
